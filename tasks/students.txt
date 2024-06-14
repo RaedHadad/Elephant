@@ -1,0 +1,9 @@
+Obied,Haddad,Obied.Haddad@e.braude.ac.il,"Final Project|programming language|data compression|seminar",https://www.youtube.com/watch?v=22wlLy7hKP4
+
+Raed,Haddad,Raed.Haddad@e.braude.ac.il,"physics|probability|compilation|WEB",https://www.ibm.com/topics/artificial-intelligence
+
+Morad,Asakli,Morad.Asakli@e.braude.ac.il,"Cloud|compilation|AI|cryptology",https://web.archive.org/
+
+Shadi,Abureesh,Shadi.Abureesh@e.braude.ac.il,"Cloud|compilation|AI|cryptology|WEB|probability",https://www.tradingview.com/
+
+Aneel,Salameh,Aneel.salameh@e.braude.ac.il,"Cloud|algorithms|WEB|probability",https://www.cisco.com/
