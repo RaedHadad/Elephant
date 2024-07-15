@@ -2,7 +2,9 @@
 
 ## Introduction
 The Elephant Project is designed to assist project managers in tracking and analyzing data received from projects in OnShape. The application allows the selection of interesting elements and presents the data visually through tables and graphs.
-![Elephant Project]([https://github.com/RaedHadad/Elephant/blob/main/Elephant-image.jpg])
+
+![Elephant Project](https://raw.githubusercontent.com/RaedHadad/Elephant/main/Elephant-image.jpg)
+
 ## Repository Contents
 This Git repository contains exercises and homework assignments for the Cloud Computing course. It includes:
 - Practical exercises to help understand various cloud computing concepts.
