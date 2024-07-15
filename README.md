@@ -1,5 +1,5 @@
 # Elephant Project
-![Elephant Project](https://github.com/RaedHadad/Elephant/main/Elephant-image.jpg)
+![Elephant Project](https://github.com/RaedHadad/Elephant/Elephant-image.jpg)
 
 ## Introduction
 The Elephant Project is designed to assist project managers in tracking and analyzing data received from projects in OnShape. The application allows the selection of interesting elements and presents the data visually through tables and graphs.
