@@ -1,0 +1,64 @@
+[
+    {
+        "first_name": "Obied",
+        "last_name": "Haddad",
+        "email": "Obied.Haddad@e.braude.ac.il",
+        "courses": [
+            "Final Project",
+            "programming language",
+            "data compression",
+            "seminar"
+        ],
+        "link": "https://www.youtube.com/watch?v=22wlLy7hKP4"
+    },
+    {
+        "first_name": "Raed",
+        "last_name": "Haddad",
+        "email": "Raed.Haddad@e.braude.ac.il",
+        "courses": [
+            "physics",
+            "probability",
+            "compilation",
+            "WEB"
+        ],
+        "link": "https://www.ibm.com/topics/artificial-intelligence"
+    },
+    {
+        "first_name": "Morad",
+        "last_name": "Asakli",
+        "email": "Morad.Asakli@e.braude.ac.il",
+        "courses": [
+            "Cloud",
+            "compilation",
+            "AI",
+            "cryptology"
+        ],
+        "link": "https://web.archive.org/"
+    },
+    {
+        "first_name": "Shadi",
+        "last_name": "Abureesh",
+        "email": "Shadi.Abureesh@e.braude.ac.il",
+        "courses": [
+            "Cloud",
+            "compilation",
+            "AI",
+            "cryptology",
+            "WEB",
+            "probability"
+        ],
+        "link": "https://www.tradingview.com/"
+    },
+    {
+        "first_name": "Aneel",
+        "last_name": "Salameh",
+        "email": "Aneel.salameh@e.braude.ac.il",
+        "courses": [
+            "Cloud",
+            "algorithms",
+            "WEB",
+            "probability"
+        ],
+        "link": "https://www.cisco.com/"
+    }
+]
